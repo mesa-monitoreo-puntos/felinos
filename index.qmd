@@ -1,0 +1,39 @@
+---
+title: "Felinos"
+bibliography: bibliografia/referencias.bib
+csl: bibliografia/apa-6th-edition.csl
+---
+
+# La familia *Felidae*
+En la [clasificación taxonómica](https://es.wikipedia.org/wiki/Taxonom%C3%ADa), los [felinos](https://es.wikipedia.org/wiki/Felidae) son una familia con nombre científico *Felidae*, perteneciente al orden de los carnívoros (*Carnivora*) y a la clase de los mamíferos (*Mammalia*). Contiene, al menos, 36 especies silvestres. Entre sus similitudes morfológicas pueden mencionarse caras redondas, bigotes, ojos grandes y orejas grandes. Tienen el rango más amplio de tamaños corporales de todas las familias de carnívoros, con pesos que van desde 1 kg hasta 300 kg. Ocupan hábitats muy diversos y su distribución natural cubre todo el planeta, con la excepción de la Antártida y Australia, donde han sido introducidos por el ser humano [@lamberski_felidae_2015].
+
+# Especies presentes en Costa Rica
+En Costa Rica hay seis especies de felinos silvestres, cuyas fotografías se muestran en la @fig-felinos-costarica.
+
+::: {#fig-felinos-costarica layout-ncol=3}
+
+![Jaguar (*Panthera onca*)](img/panthera_onca_miniatura.png){#fig-jaguar}
+
+![Puma (*Puma concolor*)](img/puma_concolor_miniatura.png){#fig-puma}
+
+![Manigordo (*Leopardus pardalis*)](img/leopardus_pardalis_miniatura.png){#fig-manigordo}
+
+![Yaguarondí (*Puma yagouaroundi*)](img/puma_yagouaroundi_miniatura.png){#fig-yaguarondi}
+
+![Caucel (*Leopardus wiedii*)](img/leopardus_wiedii_miniatura.png){#fig-caucel}
+
+![Tigrillo (*Leopardus tigrinus*)](img/leopardus_tigrinus_miniatura.png){#fig-tigrinus}
+
+
+Especies de felinos silvestres de Costa Rica
+:::
+
+Las imágenes pertenecen al [Centro de Rescate y Refugio Las Pumas](https://www.centrorescatelaspumas.org/) y fueron publicadas en [Costa Rica Silvestre - Vecinos silvestres - Felinos](https://costaricasilvestre.go.cr/wp-content/uploads/2020/11/ficha-felinos.pdf).
+
+De acuerdo con el Sistema Nacional de Áreas de Conservación (Sinac), las seis especies se encuentran en peligro de extinción [@sinac_r-sinac-conac-092-2017_2017].
+
+# Referencias bibliográficas
+::: {#refs}
+:::
+
+
